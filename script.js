@@ -1,5 +1,5 @@
 // Mảng tin nhắn và số lượng notification
-const messages = [" 600k!"];
+const messages = [" 1 triệu!"];
 const notificationCount = 100;
 let createdNotifications = 0;
 
